@@ -1,4 +1,4 @@
-This repository showcases my hands-on experience using R for comprehensive data analysis, predictive modeling, and visualization across diverse real-world projects. Through a combination of statistical techniques, machine learning algorithms, and effective storytelling with data, I transform raw datasets into actionable insights that drive informed business decisions.
+This repository showcases my hands-on experience using R for comprehensive data analysis, predictive modeling, and visualization across diverse real-world projects aimed at improve Marketing Strategies. Through a combination of statistical techniques, machine learning algorithms, and effective storytelling with data, I transform raw datasets into actionable insights that drive informed business decisions.
 
 **What You’ll Find Here**
 Data Preparation & Cleaning: Efficient handling of large and complex datasets using packages like tidyverse, ensuring data quality and integrity for reliable analysis.
